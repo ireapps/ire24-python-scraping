@@ -11,7 +11,7 @@ The session is scheduled for Sunday, June 23, from 9 a.m. - 12:30 p.m. in room `
 Open the `cmd` application. Copy and paste this text and hit enter:
 
 ```
-cd Desktop\hands_on_classes\20240623-sunday-web-scraping-with-python-pre-registered-attendees-only && .\env\Scripts\activate
+cd Desktop\hands_on_classes\20240623-sunday-web-scraping-with-python-pre-registered-attendees-only && .\env\Scripts\activate && jupyter lab
 ```
 
 ### Course outline
